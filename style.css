@@ -100,7 +100,7 @@ body{
 .profile-pic {
     width: 45rem;
     height: 45rem;
-    background-image: url(/Assets/MO-DIgitise\ \(1\ of\ 1\)-2.jpg);
+    background-image: url(/Assets/MO-DIgitise\ \(1\ of\ 1\)-2websize.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -347,7 +347,7 @@ body{
     height:70vh;
     border-radius: 40px;
     background-color: #d8d8d8;
-    background-image: url(/Assets/MO-DIgitise\ \(1\ of\ 1\).jpg);
+    background-image: url(/Assets/MO-DIgitise\ \(1\ of\ 1\)websize.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
